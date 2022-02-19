@@ -1,0 +1,4 @@
+﻿  bug.c
+D:\code\debug\debug\bug.c(231,15): warning C4013: “Add”未定义；假设外部返回 int
+bug.obj : error LNK2019: 无法解析的外部符号 Add，函数 main 中引用了该符号
+D:\code\debug\x64\Debug\debug.exe : fatal error LNK1120: 1 个无法解析的外部命令
