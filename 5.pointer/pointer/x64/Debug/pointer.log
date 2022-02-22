@@ -1,0 +1,2 @@
+﻿  pointer.c
+D:\code\pointer\pointer\pointer.c(80): error C4700: 使用了未初始化的局部变量“a”
