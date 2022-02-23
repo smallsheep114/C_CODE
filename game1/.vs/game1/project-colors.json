@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0a6b08ab-df1e-49be-9103-eb663eb742fa": {
+      "ProjectGuid": "0a6b08ab-df1e-49be-9103-eb663eb742fa",
+      "DisplayName": "game1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
