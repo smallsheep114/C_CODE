@@ -1,0 +1,12 @@
+﻿  string_function.c
+D:\code\8.字符函数深度解剖\8.字符函数深度解剖\string_function.c(411,36): error C2143: 语法错误: 缺少“;”(在“<=”的前面)
+D:\code\8.字符函数深度解剖\8.字符函数深度解剖\string_function.c(411,40): error C2059: 语法错误:“)”
+D:\code\8.字符函数深度解剖\8.字符函数深度解剖\string_function.c(412,2): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\code\8.字符函数深度解剖\8.字符函数深度解剖\string_function.c(416,14): error C2036: “void *”: 未知的大小
+D:\code\8.字符函数深度解剖\8.字符函数深度解剖\string_function.c(417,13): error C2036: “const void *”: 未知的大小
+D:\code\8.字符函数深度解剖\8.字符函数深度解剖\string_function.c(420,2): error C2181: 没有匹配 if 的非法 else
+D:\code\8.字符函数深度解剖\8.字符函数深度解剖\string_function.c(426,15): error C2036: “void *”: 未知的大小
+D:\code\8.字符函数深度解剖\8.字符函数深度解剖\string_function.c(427,14): error C2036: “const void *”: 未知的大小
+D:\code\8.字符函数深度解剖\8.字符函数深度解剖\string_function.c(432,2): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\code\8.字符函数深度解剖\8.字符函数深度解剖\string_function.c(436,13): warning C4013: “my_menmove”未定义；假设外部返回 int
+D:\code\8.字符函数深度解剖\8.字符函数深度解剖\string_function.c(407): fatal error C1075: “{”: 未找到匹配令牌
