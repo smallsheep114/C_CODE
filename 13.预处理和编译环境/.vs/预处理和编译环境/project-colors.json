@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4fe3aab0-7d9a-4cd3-8e8e-0c8f3d8fbdb9": {
+      "ProjectGuid": "4fe3aab0-7d9a-4cd3-8e8e-0c8f3d8fbdb9",
+      "DisplayName": "预处理和编译环境",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,3 @@
+﻿  contact.c
+D:\code\10.1通讯录程序\10.1通讯录程序\contact.c(18,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  文件通讯录程序.vcxproj -> D:\code\文件通讯录程序\x64\Debug\文件通讯录程序.exe

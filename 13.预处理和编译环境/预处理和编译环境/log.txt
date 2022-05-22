@@ -1,0 +1,10 @@
+file:D:\code\预处理和编译环境\预处理和编译环境\practice.c line:46 date:May 14 2022 time:10:18:43 function:main i = 0
+file:D:\code\预处理和编译环境\预处理和编译环境\practice.c line:46 date:May 14 2022 time:10:18:43 function:main i = 1
+file:D:\code\预处理和编译环境\预处理和编译环境\practice.c line:46 date:May 14 2022 time:10:18:43 function:main i = 2
+file:D:\code\预处理和编译环境\预处理和编译环境\practice.c line:46 date:May 14 2022 time:10:18:43 function:main i = 3
+file:D:\code\预处理和编译环境\预处理和编译环境\practice.c line:46 date:May 14 2022 time:10:18:43 function:main i = 4
+file:D:\code\预处理和编译环境\预处理和编译环境\practice.c line:46 date:May 14 2022 time:10:18:43 function:main i = 5
+file:D:\code\预处理和编译环境\预处理和编译环境\practice.c line:46 date:May 14 2022 time:10:18:43 function:main i = 6
+file:D:\code\预处理和编译环境\预处理和编译环境\practice.c line:46 date:May 14 2022 time:10:18:43 function:main i = 7
+file:D:\code\预处理和编译环境\预处理和编译环境\practice.c line:46 date:May 14 2022 time:10:18:43 function:main i = 8
+file:D:\code\预处理和编译环境\预处理和编译环境\practice.c line:46 date:May 14 2022 time:10:18:43 function:main i = 9

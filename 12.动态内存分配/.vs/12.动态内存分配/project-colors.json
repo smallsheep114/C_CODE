@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5c50c25f-de6d-4e38-a657-f28a4d11571e": {
+      "ProjectGuid": "5c50c25f-de6d-4e38-a657-f28a4d11571e",
+      "DisplayName": "12.动态内存分配",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

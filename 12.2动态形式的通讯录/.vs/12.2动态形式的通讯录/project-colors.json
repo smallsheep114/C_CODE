@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2d835038-b04b-4ddc-bccb-fae3d8aec708": {
+      "ProjectGuid": "2d835038-b04b-4ddc-bccb-fae3d8aec708",
+      "DisplayName": "12.2动态形式的通讯录",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "23f14ce7-1cae-448b-8c7d-cf054c811b57": {
+      "ProjectGuid": "23f14ce7-1cae-448b-8c7d-cf054c811b57",
+      "DisplayName": "文件通讯录程序",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
