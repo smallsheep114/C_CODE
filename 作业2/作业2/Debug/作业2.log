@@ -1,0 +1,3 @@
+﻿  practice.c
+D:\code\作业2\作业2\practice.c(90,14): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  作业2.vcxproj -> D:\code\作业2\Debug\作业2.exe
